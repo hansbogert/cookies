@@ -7,4 +7,6 @@ Expect barely working code. This will be extended if I or others use will actual
 
 ## Installation
 
+```
 go install github.com/hansbogert/cookies@latest
+```
