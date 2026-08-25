@@ -2,7 +2,7 @@
 
 LLM coded reimplementation of https://github.com/barnardb/cookies, as aforementioned appeared to no longer work.
 
-Expect barely working code. This will be extended if I or others use will actually use it more.
+Expect barely working code. This will be extended if I or others will actually start using it.
 
 
 ## Installation
